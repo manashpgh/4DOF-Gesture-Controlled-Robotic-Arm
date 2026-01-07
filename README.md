@@ -158,7 +158,7 @@ This ensures **stable, smooth, and low-latency motion control**.
 
 ---
 
-## 🧑‍💻 Skills & Keywords (ATS-Optimized)
+## 🧑‍💻 Skills & Keywords 
 
 Embedded Systems, ESP32, Embedded C/C++, MPU6050, IMU Sensor Fusion, MQTT, IoT, PCA9685, PWM, Servo Control, Real-Time Systems, FreeRTOS, Robotics, Control Systems, Mechatronics, Wireless Communication, Safety-Critical Design
 
