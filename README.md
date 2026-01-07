@@ -171,7 +171,7 @@ This project demonstrates **end-to-end system thinking**, combining **sensing, c
 ---
 
 ## 👤 Authors
-- Manash Pratim Ghosh
+**Manash Pratim Ghosh**
 
 GitHub: *(https://github.com/manashpgh)*
 
