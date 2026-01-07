@@ -171,7 +171,9 @@ This project demonstrates **end-to-end system thinking**, combining **sensing, c
 ---
 
 ## 👤 Authors
-- Manash Pratim Ghosh  
+- Manash Pratim Ghosh
+
+---
 
 ## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
